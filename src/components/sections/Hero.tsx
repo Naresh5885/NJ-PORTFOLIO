@@ -171,7 +171,7 @@ export default function Hero() {
                   src="/api/profile-image" 
                   onError={(e) => { (e.target as HTMLImageElement).src = "/profile.jpg"; }}
                   alt={profile.name} 
-                  className="w-full h-full object-cover opacity-95 hover:scale-105 transition-transform duration-700" 
+                  className="w-full h-full object-cover object-[center_top] opacity-95 hover:scale-105 transition-transform duration-700" 
                 />
 
                 {/* Subtle Gradient Overlay */}
