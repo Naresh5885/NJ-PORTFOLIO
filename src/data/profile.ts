@@ -26,7 +26,7 @@ export const profile = {
       major: "Artificial Intelligence and Machine Learning",
       university: "V.S.B. Engineering College, Karur",
       duration: "2023 – Present",
-      score: "7.56 CGPA",
+      score: "7.57 CGPA",
       type: "Degree"
     },
     {
@@ -43,7 +43,7 @@ export const profile = {
     major: "Artificial Intelligence and Machine Learning",
     university: "V.S.B Engineering College",
     duration: "2023 - Present",
-    cgpa: "7.56",
+    cgpa: "7.57",
     coursework: [
       "Machine Learning",
       "Artificial Intelligence",
@@ -57,7 +57,7 @@ export const profile = {
     projects: "3+",
     internship: "2",
     certifications: "8+",
-    cgpa: "7.56",
+    cgpa: "7.57",
     startedJourney: "2023"
   },
   languages: ["English", "Tamil"]
