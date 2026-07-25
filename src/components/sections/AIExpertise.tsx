@@ -83,7 +83,7 @@ export default function AIExpertise() {
               // DOMAIN SPECIALIZATIONS
             </span>
             <h2 className="font-heading text-5xl md:text-8xl tracking-tighter">
-              AI <span className="text-primary">EXPERTISE</span>
+              TECHNICAL <span className="text-primary">EXPERTISE</span>
             </h2>
           </motion.div>
           <motion.p

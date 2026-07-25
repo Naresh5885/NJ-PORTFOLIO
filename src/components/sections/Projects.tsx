@@ -23,7 +23,7 @@ export default function Projects() {
           transition={{ duration: 0.8 }}
           className="font-heading text-[12vw] md:text-9xl mb-24 tracking-tighter text-center"
         >
-          SELECTED <span className="text-primary">WORKS</span>
+          PROJECT <span className="text-primary">WORKS</span>
         </motion.h2>
 
         {/* Featured Project Card */}
